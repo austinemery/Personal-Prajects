@@ -1,1 +1,4 @@
-# Personal-Prajects
+# Personal-Projects
+
+## Welcome to my personal projects!
+
